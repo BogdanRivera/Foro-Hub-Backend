@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img src="https://github.com/BogdanRivera/Foro-Hub-Backend/assets/121648408/31b27130-9101-4e25-a972-1c6e7377c86a" alt="imagenforo">
+   <img src="https://github.com/BogdanRivera/Foro-Hub-Backend/assets/121648408/31b27130-9101-4e25-a972-1c6e7377c86a" alt="imagenforo" width="150">
 </p>
 
 <p align="center">
