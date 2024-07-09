@@ -2,7 +2,7 @@
 
 
 <p align="center">
-![imagenforo](https://github.com/BogdanRivera/Foro-Hub-Backend/assets/121648408/01561fd8-daf8-407c-901f-415f5609ce27)
+![imagenforo](https://github.com/BogdanRivera/Foro-Hub-Backend/assets/121648408/31b27130-9101-4e25-a972-1c6e7377c86a)
 </p>
 
    <p align="center">
