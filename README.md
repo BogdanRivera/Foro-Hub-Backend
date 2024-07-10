@@ -13,7 +13,7 @@
 ForoHub API es una aplicación de backend desarrollada con Spring Boot como parte del proyecto final de ciertificación de Alura en la formación de "Desarrollador backend" la cual proporciona una plataforma de foros donde los usuarios pueden crear, leer, actualizar y eliminar tópicos de discusión. La API permite gestionar usuarios, cursos, y perfiles, facilitando la interacción entre ellos. Los tópicos están categorizados por cursos y pueden tener múltiples respuestas de diferentes usuarios. La API incluye endpoints para realizar operaciones CRUD en estos elementos, asegurando la integridad de los datos y proporcionando respuestas adecuadas a las solicitudes HTTP.
 
 ## Features
-\
+
 * Gestión de Usuarios: Registro, actualización y eliminación de usuarios.\
 * Gestión de Tópicos: Creación, actualización, listado y eliminación de tópicos.\
 * Gestión de Respuestas: Los usuarios pueden responder a tópicos y estas respuestas pueden ser gestionadas.\
