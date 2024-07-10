@@ -14,22 +14,22 @@ ForoHub API es una aplicación de backend desarrollada con Spring Boot como part
 
 ## Features
 \
-Gestión de Usuarios: Registro, actualización y eliminación de usuarios.\
-Gestión de Tópicos: Creación, actualización, listado y eliminación de tópicos.\
-Gestión de Respuestas: Los usuarios pueden responder a tópicos y estas respuestas pueden ser gestionadas.\
-Gestión de Cursos: Administración de los cursos que categorizan los tópicos.\
-Autenticación y Autorización: Implementación de seguridad utilizando Spring Security.\
-Paginación y Filtros: Soporte para paginación en listados de tópicos y filtros específicos, como búsqueda por año y curso.\
-Documentación en OpenAPI3: Pruebas de la API en una página interactiva HTML.
+* Gestión de Usuarios: Registro, actualización y eliminación de usuarios.\
+* Gestión de Tópicos: Creación, actualización, listado y eliminación de tópicos.\
+* Gestión de Respuestas: Los usuarios pueden responder a tópicos y estas respuestas pueden ser gestionadas.\
+* Gestión de Cursos: Administración de los cursos que categorizan los tópicos.\
+* Autenticación y Autorización: Implementación de seguridad utilizando Spring Security.\
+* Paginación y Filtros: Soporte para paginación en listados de tópicos y filtros específicos, como búsqueda por año y curso.\
+* Documentación en OpenAPI3: Pruebas de la API en una página interactiva HTML.
 
 ## Tecnologías usadas
 
-Spring Boot: Framework principal para el desarrollo de la aplicación.\
-Spring Data JPA: Manejo de la persistencia de datos y consultas a la base de datos.\
-Spring Security: Implementación de seguridad para la autenticación y autorización de usuarios.\
-MySQL: Base de datos relacional utilizada para almacenar la información de la aplicación.\
-Insomnia: Herramienta para probar y consumir la API REST.\
-OpenAPI3: Documentación visual de ayuda para probar la API REST.\
+* Spring Boot: Framework principal para el desarrollo de la aplicación.\
+* Spring Data JPA: Manejo de la persistencia de datos y consultas a la base de datos.\
+* Spring Security: Implementación de seguridad para la autenticación y autorización de usuarios.\
+* MySQL: Base de datos relacional utilizada para almacenar la información de la aplicación.\
+* Insomnia: Herramienta para probar y consumir la API REST.\
+* OpenAPI3: Documentación visual de ayuda para probar la API REST.\
 
 ## Como usar
 
