@@ -5,6 +5,8 @@ import alura.forohub.api.domain.curso.CursoRepository;
 import alura.forohub.api.domain.topicos.*;
 import alura.forohub.api.domain.usuario.UserRepository;
 import alura.forohub.api.domain.usuario.Usuario;
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
@@ -21,6 +23,7 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/topicos")
+@SecurityRequirement(name="bearer-key")
 public class TopicoController {
     @Autowired
     private TopicoRepository topicoRepository;
